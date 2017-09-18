@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MobileTutorial</string>
+
+    <string name="label_bill">Bill</string>
+    <string name="label_tip">Tip</string>
+
+    <string name="edit_bill">Enter Bill</string>
+    <string name="edit_tip">Enter Tip</string>
 </resources>
